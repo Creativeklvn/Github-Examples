@@ -15,7 +15,7 @@ jobs:
 
       - name: "step 1"
         run: |
-          echo "::hello kelvin" >> $GITHUB _ENV
+          echo "::hello kelvi" >> $GITHUB _ENV
       - name: "step 2"
         run: |
           echo "Msg 1"
